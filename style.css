@@ -1,0 +1,48 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: rgb(18 7 7 / 74%);
+text-align: center;
+
+margin: 2px;
+}
+.container{
+  width: 32%;
+  margin-left:439px;
+  margin-top: 181px;
+
+}
+.box{
+  padding: 40px;
+    margin: 13px;
+    background-color:#1f3d5cb3;
+    border-radius: 16px;
+    border: none;
+    box-shadow: 0 0 1rem black;
+    font-size: 35px;
+
+}
+#reset{
+  padding: 5px;
+  margin: 13px;
+  background-color: #213a30;
+  border-radius: 3px;
+  
+}
+.msg{
+  padding: 2px;
+  margin: 8px;
+  color: white;
+}
+.play{
+  padding: 5px;
+  margin: 13px;
+  background-color: #213a30;
+  border-radius: 3px;
+
+}
+.hide{
+  display: none;
+}
